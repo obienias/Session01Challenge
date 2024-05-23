@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text>Command Session01Challenge</Text>
+		<Assembly>Session01Challenge.dll</Assembly>
+		<FullClassName>Session01Challenge.Command</FullClassName>
+		<ClientId>a36b5eab-8687-4315-9505-d579a143e6dd</ClientId>
+		<VendorId>VendorId</VendorId>
+		<VendorDescription>VendorDescription</VendorDescription>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Session01Challenge</Name>
+		<Assembly>Session01Challenge.dll</Assembly>
+		<FullClassName>Session01Challenge.App</FullClassName>
+		<AddInId>886dbe56-9ee1-4524-ad78-0f81cc7b5c51</AddInId>
+		<VendorId>VendorId</VendorId>
+		<VendorDescription>VendorDescription</VendorDescription>
+	</AddIn>
+</RevitAddIns>
